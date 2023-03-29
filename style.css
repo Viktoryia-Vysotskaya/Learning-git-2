@@ -9,7 +9,15 @@ h1 {
     font-family: fantasy;
     }
     
-    span {
-        font-size: small;
-        font-family:inherit;
+span {
+    font-size: small;
+    font-family:inherit;
+    }
+
+ul {
+    color: rgb(89, 11, 126);
+    }
+    
+ol {
+    color: rgb(36, 194, 178);
     }
