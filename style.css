@@ -4,3 +4,12 @@ body {
     font-size: 22px;
 }
 
+h1 {
+    font-size: 40px;
+    font-family: fantasy;
+    }
+    
+    span {
+        font-size: small;
+        font-family:inherit;
+    }
